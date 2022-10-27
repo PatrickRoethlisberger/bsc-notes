@@ -43,3 +43,17 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >%%TAGS%%
 >
 ^cpkivhst7cp
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-27T00:15:57.207Z","updated":"2022-10-27T00:15:57.207Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":111503,"end":111637},{"type":"TextQuoteSelector","exact":"The value of evidence-based management depends on whether it enables research findings to be transferred or translated into practice. ","prefix":"ence-based management practice. ","suffix":"What is distinctive about eviden"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==The value of evidence-based management depends on whether it enables research findings to be transferred or translated into practice.== *
+>%%LINK%%[[#^7l1ye8p49wm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7l1ye8p49wm
