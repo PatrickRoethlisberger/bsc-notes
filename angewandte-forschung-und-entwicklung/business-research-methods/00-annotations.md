@@ -57,3 +57,17 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >%%TAGS%%
 >
 ^7l1ye8p49wm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-27T08:06:10.329Z","updated":"2022-10-27T08:06:10.329Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":119356,"end":119501},{"type":"TextQuoteSelector","exact":"The value of a research question is that it can• guide your literature search;• guide your decisions about the kind of research design to employ;","prefix":" research may become unfocused. ","suffix":"1.2 KEY CONCEPTWhat are research"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==The value of a research question is that it can• guide your literature search;• guide your decisions about the kind of research design to employ;== *
+>%%LINK%%[[#^h05y8k1rz65|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^h05y8k1rz65
