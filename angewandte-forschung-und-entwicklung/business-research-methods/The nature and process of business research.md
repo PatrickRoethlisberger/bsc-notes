@@ -4,7 +4,7 @@
 
 - What is distinctive about academic business research?
 
-Business Research befasst sich ausschliesslich mit Themen, welche von Wirtschaflicher Natur sind. Dies umfasst zum Beispiel Strategisches Management, Finanzen oder auch Organisatorisches Management.
+Business Research befasst sich ausschliesslich mit Themen, welche von Wirtschaftlicher Natur sind. Dies umfasst zum Beispiel strategisches Management, Finanzen oder auch organisatorisches Management.
 
 ## Why do business research?
 
@@ -14,7 +14,7 @@ Business Research befasst sich ausschliesslich mit Themen, welche von Wirtschafl
 
 - What contextual factors affect the practice of business research and researchers’ choice of methods?
 
-Bereits existierendes Wissen in Form von bestehender Literatur oder Theorien, erlauben die Aufstellung von verschieden Fragestellungen für wirtschaftliche Arbeiten. So können anhand von aufgestellten Theorien diese bestätigt oder widerlegt werden oder den Zusammenhang von Arbeiten und Theorien erforscht und basierend darauf Hypothesen aufgestellt werden.
+Bereits existierendes Wissen in Form von bestehender Literatur oder Theorien erlauben die Aufstellung von verschieden Fragestellungen für wirtschaftliche Arbeiten. So können anhand von aufgestellten Theorien diese bestätigt oder widerlegt werden oder den Zusammenhang von Arbeiten und Theorien erforscht und basierend darauf Hypothesen aufgestellt werden.
 Ebenfalls haben Erwartungen an den Vorgang des Forschungsprozesses einen Einfluss. So wird erwartet, dass Hypothesen mit messbaren Daten bestätigt oder widerlegt werden. Dabei sollten auch ethische und ethnische Aspekte nicht aus dem Auge gelassen werden.
 
 ## Relevance to practice
@@ -56,7 +56,8 @@ Als »Wicket Problems« werden schwerwiegende Problemstellungen bezeichnet, welc
 	- Während von Elsesser und Lever Daten von vielen Teilnehmern aus diversen Schichten ausgewertet wurden (Quantitatives Research), wurden von Clarke et al. ein Qualitatives Research betrieben. Das heisst es wurden nur wenige, jedoch ausgewählte Personen befragt.
 
 - How might you structure a report of the findings of a research project that you conducted?
-	- Umfragen sollten jeweils in ein such- und filterbares Format gebracht werden, um eine aufwendige Suche während dem späteren Prozess zu vermeiden. Ebenfalls sollten Audio 
+	- Umfragen sollten jeweils in ein such- und filterbares Format gebracht werden, um eine aufwendige Suche während dem späteren Prozess zu vermeiden. Die jeweiligen Datenpunkte sollten auch Gekennzeichnet werden, um diese einfach zu clustern.
 
 ## The messiness of business research
 - If research does not always go according to plan, why should we bother to learn business research methods at all?
+	- Dies soll als Anregung dienen und mögliche Lösungsvarianten aufzeigen, wie man eine wirtschaftliche Arbeit umsetzt.
