@@ -9,10 +9,12 @@ Business Research befasst sich ausschliesslich mit Themen, welche von Wirtschafl
 
 ## Business research methods in context
 - What contextual factors affect the practice of business research and researchers’ choice of methods?
-Bereits existierendes Wissen in Form von bestehender Litreatur oder Theorien, erlauben die Aufstellung von verschieden Fragestellungen für wirtschaftliche Arbeiten.
+Bereits existierendes Wissen in Form von bestehender Literatur oder Theorien, erlauben die Aufstellung von verschieden Fragestellungen für wirtschaftliche Arbeiten. So können anhand von aufgestellten Theorien diese bestätigt oder widerlegt werden oder den Zusammenhang von Arbeiten und Theorien erforscht und basierend darauf Hypothesen aufgestellt werden.
+Ebenfalls haben Erwartungen an den Vorgang des Forschungsprozesses einen Einfluss. So wird erwartet, dass Hypothesen mit messbaren Daten bestätigt oder widerlegt werden. Dabei sollten auch ethische und ethnische Aspekte nicht aus dem Auge gelassen werden.
 
 ## Relevance to practice
 - What are the differences between mode 1 and mode 2 forms of knowledge production and why is this distinction important?
+Während 
 - What are ‘wicked problems’ and how might business researchers be involved in addressing them?  
 ## The process of business research
 - Why is a literature review important when conducting business research?
