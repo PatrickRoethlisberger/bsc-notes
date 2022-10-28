@@ -9,6 +9,7 @@ Business Research befasst sich ausschliesslich mit Themen, welche von Wirtschafl
 
 ## Business research methods in context
 - What contextual factors affect the practice of business research and researchers’ choice of methods?
+Bereits existierendes Wissen in Form von bestehender Litreatur oder Theorien, erlauben die Aufstellung von verschieden Fragestellungen für wirtschaftliche Arbeiten.
 
 ## Relevance to practice
 - What are the differences between mode 1 and mode 2 forms of knowledge production and why is this distinction important?
