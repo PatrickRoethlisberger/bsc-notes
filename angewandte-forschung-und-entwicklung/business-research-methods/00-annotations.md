@@ -113,3 +113,31 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >%%TAGS%%
 >
 ^wluiln344ea
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-28T08:42:46.349Z","updated":"2022-10-28T08:42:46.349Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":120347,"end":120792},{"type":"TextQuoteSelector","exact":"1.  Predicting an outcome: does y happen under circumstances a and b?2.  Explaining causes and consequences of a phenomenon: is y affected by x or is y a consequence of x?3.  Evaluating a phenomenon: does y exhibit the benefits that it is claimed to have?4.  Describing a phenomenon: what is y like or what forms does y assume?5.  Developing good practice: how can we improve y?6.  Empowerment: how can we enhance the lives of those we research?","prefix":"t of types of research question:","suffix":"White (2009) is critical of Dens"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==1.  Predicting an outcome: does y happen under circumstances a and b?2.  Explaining causes and consequences of a phenomenon: is y affected by x or is y a consequence of x?3.  Evaluating a phenomenon: does y exhibit the benefits that it is claimed to have?4.  Describing a phenomenon: what is y like or what forms does y assume?5.  Developing good practice: how can we improve y?6.  Empowerment: how can we enhance the lives of those we research?== *
+>%%LINK%%[[#^jw9y3uki6hc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jw9y3uki6hc
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-28T08:43:09.154Z","updated":"2022-10-28T08:43:09.154Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":121106,"end":121156},{"type":"TextQuoteSelector","exact":"7.  Comparison: do a and b differ in respect of x?","prefix":". White proposes an alternative:","suffix":"There are many ways that researc"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==7.  Comparison: do a and b differ in respect of x?== *
+>%%LINK%%[[#^j2tqr2tqwi|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^j2tqr2tqwi
