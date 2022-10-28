@@ -47,11 +47,16 @@ Als »Wicket Problems« werden schwerwiegende Problemstellungen bezeichnet, welc
 	7. Comparison: do a and b differ in respect of x?
 
 - Why do researchers need to sample? Why is it important for them to outline the principles that underpin their sampling choices?
-	- 
+	- Da nur eine beschränkte Anzahl an Quellen befragt werden können oder wollen, muss dies eingegrenzt werden. Dabei ist darauf zu achten, dass möglichst alle relevanten Schichten einbezogen werden, um nicht einen gewissen Vorbehalt zu erhalten.
+
 - Outline one or two factors that might affect a researcher’s choice of data-collection method.
-	- Wie bei vielem spielt der Finanzielle Aspekt natürlich häufig eine Rolle. Ebenfalls sollte auf eine passende Auswahl der Datenquellen geachtet werden -> soll es Beispielsweeise eine Quantitative odre Qualitative 
+	- Wie bei vielem spielt der finanzielle Aspekt natürlich häufig eine Rolle. Ebenfalls sollte auf eine passende Auswahl der Datenquellen geachtet werden -> soll es etwa eine Quantitative oder Qualitative Umfrage sein? 
+
 - What are the main differences between the kinds of data analysed by Elsesser and Lever (2011) and by Clarke et al. (2012)?
+	- Während von Elsesser und Lever Daten von vielen Teilnehmern aus diversen Schichten ausgewertet wurden (Quantitatives Research), wurden von Clarke et al. ein Qualitatives Research betrieben. Das heisst es wurden nur wenige, jedoch ausgewählte Personen befragt.
+
 - How might you structure a report of the findings of a research project that you conducted?
+	- Umfragen sollten jeweils in ein such- und filterbares Format gebracht werden, um eine aufwendige Suche während dem späteren Prozess zu vermeiden. Ebenfalls sollten Audio 
 
 ## The messiness of business research
 - If research does not always go according to plan, why should we bother to learn business research methods at all?
