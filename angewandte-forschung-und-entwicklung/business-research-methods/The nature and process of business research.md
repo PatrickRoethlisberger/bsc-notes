@@ -2,6 +2,7 @@
 
 ### What is meant by ‘business research’?
 - What is distinctive about academic business research?
+Business Research befasst sich ausschliesslich mit Themen, welche von Wirtschaflicher Natur sind. Dies umfasst zum Beispiel Strategisches Management, Finanzen oder auch Organisatorisches Management.
 
 ## Why do business research?
 - If you were to start a research project now or in the near future, what would you study and why?  
@@ -20,3 +21,6 @@
 - Outline one or two factors that might affect a researcher’s choice of data-collection method.
 - What are the main differences between the kinds of data analysed by Elsesser and Lever (2011) and by Clarke et al. (2012)?
 - How might you structure a report of the findings of a research project that you conducted?
+
+## The messiness of business research
+- If research does not always go according to plan, why should we bother to learn business research methods at all?
