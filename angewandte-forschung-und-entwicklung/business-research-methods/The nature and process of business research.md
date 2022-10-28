@@ -30,16 +30,26 @@ Als »Wicket Problems« werden schwerwiegende Problemstellungen bezeichnet, welc
 ## The process of business research
 
 - Why is a literature review important when conducting business research?
-
-
+	- Literatur Review ist wichtig, um nicht bereits vorhandenes Wissen erneut zu erforschen.
 
 - What role do concepts and theories play in the process of business research?
-
-
+	- Konzepte sind dafür da, das soziale Umfeld zu beschreiben. Durch Konzepte können Teile des sozialen Umfelds beschrieben werden. 
 
 - Why are researchers encouraged to specify their research questions? What are the different kinds of research question?
+	- Durch die Stellung einer Forschungsfrage wird sichergestellt, dass die Arbeit nicht ungeordnet erscheint und in diverse Richtungen abdriftet. Forschungsfragen können in sieben Kategorien unterteilt werden:
+
+	1. Predicting an outcome: does y happen under circumstances a and b?  
+	2. Explaining causes and consequences of a phenomenon: is y affected by x or is y a consequence of x?  
+	3. Evaluating a phenomenon: does y exhibit the benefits that it is claimed to have?  
+	4. Describing a phenomenon: what is y like or what forms does y assume?  
+	5. Developing good practice: how can we improve y?  
+	6. Empowerment: how can we enhance the lives of those we research?
+	7. Comparison: do a and b differ in respect of x?
+
 - Why do researchers need to sample? Why is it important for them to outline the principles that underpin their sampling choices?
+	- 
 - Outline one or two factors that might affect a researcher’s choice of data-collection method.
+	- Wie bei vielem spielt der Finanzielle Aspekt natürlich häufig eine Rolle. Ebenfalls sollte auf eine passende Auswahl der Datenquellen geachtet werden -> soll es Beispielsweeise eine Quantitative odre Qualitative 
 - What are the main differences between the kinds of data analysed by Elsesser and Lever (2011) and by Clarke et al. (2012)?
 - How might you structure a report of the findings of a research project that you conducted?
 
