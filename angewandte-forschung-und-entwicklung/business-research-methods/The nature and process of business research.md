@@ -25,11 +25,18 @@ Ebenfalls haben Erwartungen an den Vorgang des Forschungsprozesses einen Einflus
 
 - What are ‘wicked problems’ and how might business researchers be involved in addressing them?  
 
-Als "Wicket Problems" werden Problemstellungen 
+Als »Wicket Problems« werden schwerwiegende Problemstellungen bezeichnet, welche eine grosse Gesellschaft betrifft. So zählen etwa der Klimawandel oder auch Armut als »grand challenges«. Diese Themen müssen auch von wirtschaftlichen Arbeiten behandelt werden, da die heutige Gesellschaft eng mit der Wirtschaftswelt verkuppelt ist.
 
 ## The process of business research
+
 - Why is a literature review important when conducting business research?
+
+
+
 - What role do concepts and theories play in the process of business research?
+
+
+
 - Why are researchers encouraged to specify their research questions? What are the different kinds of research question?
 - Why do researchers need to sample? Why is it important for them to outline the principles that underpin their sampling choices?
 - Outline one or two factors that might affect a researcher’s choice of data-collection method.
