@@ -14,7 +14,7 @@ Ebenfalls haben Erwartungen an den Vorgang des Forschungsprozesses einen Einflus
 
 ## Relevance to practice
 - What are the differences between mode 1 and mode 2 forms of knowledge production and why is this distinction important?
-Während 
+"Mode 1" basierend auf bereits existirendem Wissen, welches zwischen rein theoretischem Wissen sowie angewantem Wissen unterscheidet. "Mode 2" basiert währenddessen nicht auf rein wissenschaftlichen Theorien und erlaubt ein transdisziplinaritäres arbeiten
 - What are ‘wicked problems’ and how might business researchers be involved in addressing them?  
 ## The process of business research
 - Why is a literature review important when conducting business research?
