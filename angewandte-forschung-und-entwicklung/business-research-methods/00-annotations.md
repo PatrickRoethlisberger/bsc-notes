@@ -71,3 +71,45 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >%%TAGS%%
 >
 ^h05y8k1rz65
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-28T08:36:07.784Z","updated":"2022-10-28T08:36:07.784Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":108971,"end":109163},{"type":"TextQuoteSelector","exact":"Mode 1. Within this traditional, university-based model, knowledge production is driven primarily by an academic agenda. Discoveries tend to build upon exist-ing knowledge in a linear fashion.","prefix":"be  as  ‘mode 1’ and ‘mode 2’.• ","suffix":" The model makes a distinction b"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Mode 1. Within this traditional, university-based model, knowledge production is driven primarily by an academic agenda. Discoveries tend to build upon exist-ing knowledge in a linear fashion.== *
+>%%LINK%%[[#^813jo9sqdhv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^813jo9sqdhv
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-28T08:36:18.044Z","updated":"2022-10-28T08:36:18.044Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":110160,"end":110247},{"type":"TextQuoteSelector","exact":"mode 2 research is intended to exist alongside mode  1,  rather  than  to  replace  it,","prefix":" practical improvement.Although ","suffix":"  Tranfield  and  Starkey  (1998"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==mode 2 research is intended to exist alongside mode  1,  rather  than  to  replace  it,== *
+>%%LINK%%[[#^3tne2sdholm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3tne2sdholm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-28T08:36:47.490Z","updated":"2022-10-28T08:36:47.490Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":109490,"end":109809},{"type":"TextQuoteSelector","exact":"Mode  2.  This  model  draws  attention  to  the  role  of  trans-disciplinarity in research, which refers to a pro-cess that causes the boundaries of single contributing disciplines to be exceeded. Findings are closely related to context and not easily replicated, so knowledge pro-duction is less of a linear process.","prefix":"ence or consumer of knowledge.• ","suffix":" Moreover, the pro-duction  of  "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Mode  2.  This  model  draws  attention  to  the  role  of  trans-disciplinarity in research, which refers to a pro-cess that causes the boundaries of single contributing disciplines to be exceeded. Findings are closely related to context and not easily replicated, so knowledge pro-duction is less of a linear process.== *
+>%%LINK%%[[#^wluiln344ea|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wluiln344ea
