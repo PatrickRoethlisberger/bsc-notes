@@ -61,13 +61,18 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 
 >%%
 >```annotation-json
->{"created":"2022-10-27T08:06:10.329Z","updated":"2022-10-27T08:06:10.329Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":119356,"end":119501},{"type":"TextQuoteSelector","exact":"The value of a research question is that it can• guide your literature search;• guide your decisions about the kind of research design to employ;","prefix":" research may become unfocused. ","suffix":"1.2 KEY CONCEPTWhat are research"}]}]}
+>{"created":"2022-10-27T08:06:10.329Z","text":"•   guide  your  decisions  about  what  data  to  collect  and  \nfrom whom;\n• guide your analysis of data;\n• guide your writing-up of findings;\n• stop you going off in unnecessary directions; and\n•  provide your readers with a clear sense of what your research is about.","updated":"2022-10-27T08:06:10.329Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":119356,"end":119501},{"type":"TextQuoteSelector","exact":"The value of a research question is that it can• guide your literature search;• guide your decisions about the kind of research design to employ;","prefix":" research may become unfocused. ","suffix":"1.2 KEY CONCEPTWhat are research"}]}]}
 >```
 >%%
 >*%%HIGHLIGHT%% ==The value of a research question is that it can• guide your literature search;• guide your decisions about the kind of research design to employ;== *
 >%%LINK%%[[#^h05y8k1rz65|show annotation]]
 >%%COMMENT%%
->
+>•   guide  your  decisions  about  what  data  to  collect  and  
+>from whom;
+>• guide your analysis of data;
+>• guide your writing-up of findings;
+>• stop you going off in unnecessary directions; and
+>•  provide your readers with a clear sense of what your research is about.
 >%%TAGS%%
 >
 ^h05y8k1rz65
@@ -141,3 +146,4 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >%%TAGS%%
 >
 ^j2tqr2tqwi
+
