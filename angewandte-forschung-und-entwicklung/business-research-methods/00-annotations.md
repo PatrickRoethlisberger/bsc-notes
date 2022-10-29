@@ -1,5 +1,5 @@
 ---
-annotation-target: literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf
+annotation-target: literature/angewandte-forschung-und-entwicklung/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf
 ---
 
 
