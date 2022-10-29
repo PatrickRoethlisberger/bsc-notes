@@ -39,7 +39,8 @@ fragestellung ^P6Swt4nh
 
 Theorie
     Literaturrecherche
-    Studienresultate
+    Theorie
+    Studien
     Resultate
     Fachquellen -> Publiziert ^GLD4gH8g
 
@@ -51,6 +52,7 @@ Handlungsempfehlungen
 ( aus dem Vergelich
 von verschiedenen Quellen
 / Authoren )
+ 
 
 Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 
@@ -1096,8 +1098,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 483,
-			"versionNonce": 1244457934,
+			"version": 728,
+			"versionNonce": 1992953102,
 			"isDeleted": false,
 			"id": "Caa37Qr1sIKPxEVWMAoER",
 			"fillStyle": "hachure",
@@ -1106,17 +1108,17 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 689.832575256263,
-			"y": 14.737181594758624,
+			"x": 680.9832108597216,
+			"y": 11.354187795100131,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 451.80519572438345,
-			"height": 35.96096131600048,
+			"width": 442.955831327842,
+			"height": 32.577967516341985,
 			"seed": 1251306254,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667029522564,
+			"updated": 1667031124486,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1130,8 +1132,12 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					0
 				],
 				[
-					-451.80519572438345,
-					-35.96096131600048
+					-101.22166842806064,
+					-2.5173190930607703
+				],
+				[
+					-442.955831327842,
+					-32.577967516341985
 				]
 			]
 		},
@@ -1619,8 +1625,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "rectangle",
-			"version": 84,
-			"versionNonce": 524319374,
+			"version": 86,
+			"versionNonce": 970811538,
 			"isDeleted": false,
 			"id": "cBQpxypEYs0v43gztRb1Y",
 			"fillStyle": "hachure",
@@ -1632,7 +1638,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"x": -56.561456741405436,
 			"y": -94.12130229957296,
 			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#868e96",
 			"width": 115.1544189453125,
 			"height": 34.77483575994319,
 			"seed": 743067666,
@@ -1652,7 +1658,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667030005997,
+			"updated": 1667031159724,
 			"link": null,
 			"locked": false
 		},
@@ -2424,8 +2430,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 152,
-			"versionNonce": 692412238,
+			"version": 207,
+			"versionNonce": 1372643154,
 			"isDeleted": false,
 			"id": "GLD4gH8g",
 			"fillStyle": "hachure",
@@ -2434,28 +2440,28 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -168.91118918481442,
-			"y": -483.2169362095342,
+			"x": -168.61629406935856,
+			"y": -500.9656744155268,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 280,
-			"height": 125,
+			"height": 150,
 			"seed": 1535531918,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667030000308,
+			"updated": 1667030768939,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Theorie\n    Literaturrecherche\n    Studienresultate\n    Resultate\n    Fachquellen -> Publiziert",
-			"rawText": "Theorie\n    Literaturrecherche\n    Studienresultate\n    Resultate\n    Fachquellen -> Publiziert",
-			"baseline": 118,
+			"text": "Theorie\n    Literaturrecherche\n    Theorie\n    Studien\n    Resultate\n    Fachquellen -> Publiziert",
+			"rawText": "Theorie\n    Literaturrecherche\n    Theorie\n    Studien\n    Resultate\n    Fachquellen -> Publiziert",
+			"baseline": 143,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Theorie\n    Literaturrecherche\n    Studienresultate\n    Resultate\n    Fachquellen -> Publiziert"
+			"originalText": "Theorie\n    Literaturrecherche\n    Theorie\n    Studien\n    Resultate\n    Fachquellen -> Publiziert"
 		},
 		{
 			"type": "arrow",
@@ -2626,9 +2632,9 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"id": "lYxk1OnW",
 			"type": "text",
 			"x": -712.055806485081,
-			"y": -503.11703885455404,
+			"y": -503.23442980507485,
 			"width": 410,
-			"height": 150,
+			"height": 175,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -2640,29 +2646,70 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 994947918,
-			"version": 182,
-			"versionNonce": 1731939858,
+			"version": 195,
+			"versionNonce": 846620174,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1667030409360,
+			"updated": 1667030420323,
 			"link": null,
 			"locked": false,
-			"text": "Handlungsempfehlungen\n( aus dem Vergelich\nvon verschiedenen Quellen\n/ Authoren )\n\nLiteraturarbeit / Theoretische Forschung",
-			"rawText": "Handlungsempfehlungen\n( aus dem Vergelich\nvon verschiedenen Quellen\n/ Authoren )\n\nLiteraturarbeit / Theoretische Forschung",
+			"text": "Handlungsempfehlungen\n( aus dem Vergelich\nvon verschiedenen Quellen\n/ Authoren )\n \n\nLiteraturarbeit / Theoretische Forschung",
+			"rawText": "Handlungsempfehlungen\n( aus dem Vergelich\nvon verschiedenen Quellen\n/ Authoren )\n \n\nLiteraturarbeit / Theoretische Forschung",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 143,
+			"baseline": 168,
 			"containerId": null,
-			"originalText": "Handlungsempfehlungen\n( aus dem Vergelich\nvon verschiedenen Quellen\n/ Authoren )\n\nLiteraturarbeit / Theoretische Forschung"
+			"originalText": "Handlungsempfehlungen\n( aus dem Vergelich\nvon verschiedenen Quellen\n/ Authoren )\n \n\nLiteraturarbeit / Theoretische Forschung"
+		},
+		{
+			"id": "z55EYWnDdiVXCplBXvy0o",
+			"type": "arrow",
+			"x": -702.9318062990692,
+			"y": -394.0987428398591,
+			"width": 0.737362816220184,
+			"height": 35.40992373511904,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 991589454,
+			"version": 53,
+			"versionNonce": 615624398,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1667030424178,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.737362816220184,
+					35.40992373511904
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemBackgroundColor": "#868e96",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
