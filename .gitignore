@@ -2,7 +2,7 @@
 .trash
 
 # Ignore obsidian plugins folder
-.obsidian/plugins
+.obsidian/plugins/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,obsidian,linux,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,obsidian,linux,git
