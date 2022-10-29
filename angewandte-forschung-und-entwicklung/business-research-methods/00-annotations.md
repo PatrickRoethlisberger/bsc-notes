@@ -147,3 +147,31 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >
 ^j2tqr2tqwi
 
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-29T04:39:27.581Z","updated":"2022-10-29T04:39:27.581Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":150792,"end":151004},{"type":"TextQuoteSelector","exact":"What is meant by ontology in business research? ‘Ontology’ refers to theories about the nature of reality. When we do research, we are trying to understand reality, so it is important to consider what reality is.","prefix":"stions that follow from this.•  ","suffix":" As mentioned briefly in Chapter"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==What is meant by ontology in business research? ‘Ontology’ refers to theories about the nature of reality. When we do research, we are trying to understand reality, so it is important to consider what reality is.== *
+>%%LINK%%[[#^d6rrt24bumf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d6rrt24bumf
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-29T04:39:38.271Z","updated":"2022-10-29T04:39:38.271Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":151383,"end":151509},{"type":"TextQuoteSelector","exact":"What is meant by epistemology in business research? ‘Epistemology’ refers to theories about what is known, or what we can know","prefix":"constructing—constructionism.•  ","suffix":". As introduced in Chapter 1, th"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==What is meant by epistemology in business research? ‘Epistemology’ refers to theories about what is known, or what we can know== *
+>%%LINK%%[[#^bwpr80b6w34|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bwpr80b6w34
