@@ -1,6 +1,9 @@
 # Only keep obsidian trash local
 .trash
 
+# Ignore obsidian plugins folder
+.obsidian/plugins
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,obsidian,linux,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,obsidian,linux,git
 
