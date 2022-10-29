@@ -56,6 +56,8 @@ von verschiedenen Quellen
 
 Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 
+Begründen -> Quellen ^SuKRQshZ
+
 %%
 # Drawing
 ```json
@@ -66,8 +68,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 398,
-			"versionNonce": 1040181070,
+			"version": 399,
+			"versionNonce": 1282604302,
 			"isDeleted": false,
 			"id": "aaviCIU7SauG-JMzRYvIp",
 			"fillStyle": "hachure",
@@ -86,7 +88,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667029522564,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -993,8 +995,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 76,
-			"versionNonce": 1658180242,
+			"version": 77,
+			"versionNonce": 638690002,
 			"isDeleted": false,
 			"id": "nR227fBx",
 			"fillStyle": "hachure",
@@ -1013,7 +1015,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667032478759,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1028,8 +1030,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "rectangle",
-			"version": 284,
-			"versionNonce": 1171537806,
+			"version": 285,
+			"versionNonce": 929835854,
 			"isDeleted": false,
 			"id": "6sAFpjNMbR_tsCo3SmXDG",
 			"fillStyle": "hachure",
@@ -1057,14 +1059,14 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667029888715,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 362158674,
+			"version": 263,
+			"versionNonce": 1698265234,
 			"isDeleted": false,
 			"id": "D9qFcMLm",
 			"fillStyle": "hachure",
@@ -1083,7 +1085,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667029522564,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1098,8 +1100,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 728,
-			"versionNonce": 1992953102,
+			"version": 729,
+			"versionNonce": 1067815310,
 			"isDeleted": false,
 			"id": "Caa37Qr1sIKPxEVWMAoER",
 			"fillStyle": "hachure",
@@ -1118,7 +1120,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667031124486,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1143,8 +1145,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 1816330258,
+			"version": 210,
+			"versionNonce": 610309714,
 			"isDeleted": false,
 			"id": "ZbyJmcpL",
 			"fillStyle": "hachure",
@@ -1163,7 +1165,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667029522564,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1178,8 +1180,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 126,
-			"versionNonce": 762987022,
+			"version": 127,
+			"versionNonce": 1079521230,
 			"isDeleted": false,
 			"id": "hwzYEpy7",
 			"fillStyle": "hachure",
@@ -1203,7 +1205,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667029522564,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1218,8 +1220,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 174,
-			"versionNonce": 253729106,
+			"version": 175,
+			"versionNonce": 878574610,
 			"isDeleted": false,
 			"id": "vtiz29BCBfcT6BmE9Hs40",
 			"fillStyle": "hachure",
@@ -1238,7 +1240,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667033915399,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1263,8 +1265,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 606,
-			"versionNonce": 658431182,
+			"version": 607,
+			"versionNonce": 1167918606,
 			"isDeleted": false,
 			"id": "jJX8LfRdrmsO2hWk_tt9w",
 			"fillStyle": "hachure",
@@ -1283,7 +1285,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667033915399,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1312,8 +1314,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 126,
-			"versionNonce": 1831450130,
+			"version": 127,
+			"versionNonce": 858302930,
 			"isDeleted": false,
 			"id": "oHgPHctQ",
 			"fillStyle": "hachure",
@@ -1332,7 +1334,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667029853290,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1347,8 +1349,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 275,
-			"versionNonce": 2006967570,
+			"version": 276,
+			"versionNonce": 1886196814,
 			"isDeleted": false,
 			"id": "uc5Gh3cA",
 			"fillStyle": "hachure",
@@ -1367,7 +1369,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667029847107,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1382,8 +1384,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 299,
-			"versionNonce": 710527758,
+			"version": 303,
+			"versionNonce": 925554578,
 			"isDeleted": false,
 			"id": "HJEjYImw",
 			"fillStyle": "hachure",
@@ -1401,8 +1403,13 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"seed": 1994787218,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1667029522564,
+			"boundElements": [
+				{
+					"id": "36JAcquN2xPxm-fC7nYAj",
+					"type": "arrow"
+				}
+			],
+			"updated": 1667041458535,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1417,8 +1424,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 394,
-			"versionNonce": 1428558606,
+			"version": 396,
+			"versionNonce": 1520523918,
 			"isDeleted": false,
 			"id": "MwMVZ4zWw7m-aVh1YP4Yx",
 			"fillStyle": "hachure",
@@ -1437,7 +1444,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667033915400,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1470,8 +1477,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 85,
-			"versionNonce": 843562578,
+			"version": 86,
+			"versionNonce": 513924434,
 			"isDeleted": false,
 			"id": "JpDNXQOz",
 			"fillStyle": "hachure",
@@ -1490,7 +1497,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667029797730,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1505,8 +1512,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 95,
-			"versionNonce": 105049298,
+			"version": 96,
+			"versionNonce": 2062735566,
 			"isDeleted": false,
 			"id": "I5DdIUm7k7PeiO2wE6cLr",
 			"fillStyle": "hachure",
@@ -1525,7 +1532,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667033915400,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1550,8 +1557,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 1331389394,
+			"version": 150,
+			"versionNonce": 81683218,
 			"isDeleted": false,
 			"id": "FUwaRL6C",
 			"fillStyle": "hachure",
@@ -1575,7 +1582,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667029546129,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1590,8 +1597,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 964181518,
+			"version": 10,
+			"versionNonce": 150638350,
 			"isDeleted": false,
 			"id": "j1b58y1v",
 			"fillStyle": "hachure",
@@ -1610,7 +1617,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667029635846,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1625,8 +1632,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "rectangle",
-			"version": 86,
-			"versionNonce": 970811538,
+			"version": 87,
+			"versionNonce": 84160722,
 			"isDeleted": false,
 			"id": "cBQpxypEYs0v43gztRb1Y",
 			"fillStyle": "hachure",
@@ -1658,14 +1665,14 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667031159724,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 1647002578,
+			"version": 310,
+			"versionNonce": 1630633294,
 			"isDeleted": false,
 			"id": "P6Swt4nh",
 			"fillStyle": "hachure",
@@ -1689,7 +1696,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667032755259,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.265427418888523,
@@ -1704,8 +1711,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1663512274,
+			"version": 218,
+			"versionNonce": 581584530,
 			"isDeleted": false,
 			"id": "daERbnQuEe43yUOfRcw8G",
 			"fillStyle": "hachure",
@@ -1724,7 +1731,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667030000308,
+			"updated": 1667041454808,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2435,8 +2442,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 1372643154,
+			"version": 208,
+			"versionNonce": 1760600974,
 			"isDeleted": false,
 			"id": "GLD4gH8g",
 			"fillStyle": "hachure",
@@ -2455,7 +2462,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667030768939,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2470,8 +2477,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 215,
-			"versionNonce": 78742162,
+			"version": 216,
+			"versionNonce": 1451730002,
 			"isDeleted": false,
 			"id": "Gl1EMVFj3giJl2Bed0tMl",
 			"fillStyle": "hachure",
@@ -2490,7 +2497,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667033915400,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2519,8 +2526,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 59,
-			"versionNonce": 1592375186,
+			"version": 60,
+			"versionNonce": 1920008654,
 			"isDeleted": false,
 			"id": "9yAcbiRr",
 			"fillStyle": "hachure",
@@ -2544,7 +2551,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					"type": "arrow"
 				}
 			],
-			"updated": 1667030022856,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2559,8 +2566,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 322914386,
+			"version": 150,
+			"versionNonce": 1785940498,
 			"isDeleted": false,
 			"id": "wMlRSwAk",
 			"fillStyle": "hachure",
@@ -2579,7 +2586,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667030181077,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2594,8 +2601,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 66,
-			"versionNonce": 1642794258,
+			"version": 67,
+			"versionNonce": 550213646,
 			"isDeleted": false,
 			"id": "6Ma9UrtN2dPzt_cTdvf_8",
 			"fillStyle": "hachure",
@@ -2614,7 +2621,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667030331544,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2635,8 +2642,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "text",
-			"version": 195,
-			"versionNonce": 846620174,
+			"version": 196,
+			"versionNonce": 1432631250,
 			"isDeleted": false,
 			"id": "lYxk1OnW",
 			"fillStyle": "hachure",
@@ -2655,7 +2662,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1667030420323,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2670,8 +2677,8 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 		},
 		{
 			"type": "arrow",
-			"version": 53,
-			"versionNonce": 615624398,
+			"version": 54,
+			"versionNonce": 1274635854,
 			"isDeleted": false,
 			"id": "z55EYWnDdiVXCplBXvy0o",
 			"fillStyle": "hachure",
@@ -2690,7 +2697,7 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1667030424178,
+			"updated": 1667041454809,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2708,6 +2715,131 @@ Literaturarbeit / Theoretische Forschung ^lYxk1OnW
 					35.40992373511904
 				]
 			]
+		},
+		{
+			"id": "36JAcquN2xPxm-fC7nYAj",
+			"type": "arrow",
+			"x": 561.8850692465187,
+			"y": -260.84441007037447,
+			"width": 75.245361328125,
+			"height": 83.53775024414062,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#868e96",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 366078802,
+			"version": 46,
+			"versionNonce": 217209934,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1667041458535,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-75.245361328125,
+					83.53775024414062
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "HJEjYImw",
+				"focus": -0.0057541620461926705,
+				"gap": 6.441987832734981
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "SuKRQshZ",
+			"type": "text",
+			"x": 561.5563949301124,
+			"y": -286.7733498897104,
+			"width": 203,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#868e96",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 314809106,
+			"version": 40,
+			"versionNonce": 1823206862,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1667041468591,
+			"link": null,
+			"locked": false,
+			"text": "Begründen -> Quellen",
+			"rawText": "Begründen -> Quellen",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Begründen -> Quellen"
+		},
+		{
+			"id": "KxFtkjuRz1M6kChddFCge",
+			"type": "arrow",
+			"x": 488.71398770354995,
+			"y": -186.67929471392915,
+			"width": 85.07598876953125,
+			"height": 135.40420532226562,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#868e96",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1876412178,
+			"version": 17,
+			"versionNonce": 393309586,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1667041454809,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					85.07598876953125,
+					-135.40420532226562
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "HJEjYImw",
+				"focus": -0.005086712938349205,
+				"gap": 14.101444781309283
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
