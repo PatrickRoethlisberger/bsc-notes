@@ -175,3 +175,31 @@ annotation-target: literature/books/Business research methods (Ema Bell, Alan Br
 >%%TAGS%%
 >
 ^bwpr80b6w34
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-29T04:56:45.655Z","updated":"2022-10-29T04:56:45.655Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":158000,"end":158091},{"type":"TextQuoteSelector","exact":"‘grand theory’, which refers to abstract, high-level theo-retical perspectives on the world","prefix":"ng  a  widening  gulf  between  ","suffix":", and empirical findings.Middle-"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==‘grand theory’, which refers to abstract, high-level theo-retical perspectives on the world== *
+>%%LINK%%[[#^vmu4i0nmis|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vmu4i0nmis
+
+
+>%%
+>```annotation-json
+>{"created":"2022-10-29T04:57:30.536Z","updated":"2022-10-29T04:57:30.536Z","document":{"title":"Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","link":[{"href":"urn:x-pdf:7d560430c66c434b9d6fbee1adc63293"},{"href":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf"}],"documentFingerprint":"7d560430c66c434b9d6fbee1adc63293"},"uri":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","target":[{"source":"vault:/literature/books/Business research methods (Ema Bell, Alan Bryman, Bill Harley).pdf","selector":[{"type":"TextPositionSelector","start":158116,"end":158458},{"type":"TextQuoteSelector","exact":"Middle-range  theories,  unlike  grand  ones,  operate  in  a  limited  domain.  Whether  research  is  about  strategic  decision-making or organizational identity, middle-range  theories  are  characterized  by  their  application  to  specific  phenomena.  In  other  words,  they  sit  between  grand  theories  and  empirical  findings. ","prefix":"e world, and empirical findings.","suffix":" They  represent  attempts  to  "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Middle-range  theories,  unlike  grand  ones,  operate  in  a  limited  domain.  Whether  research  is  about  strategic  decision-making or organizational identity, middle-range  theories  are  characterized  by  their  application  to  specific  phenomena.  In  other  words,  they  sit  between  grand  theories  and  empirical  findings.== *
+>%%LINK%%[[#^41v52yihlwf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^41v52yihlwf
