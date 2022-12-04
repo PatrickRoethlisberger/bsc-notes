@@ -1,5 +1,4 @@
 
-
 |  |  |
 | --- | --------- |
 | Thema | Vergleich der verschiedenen Arten Passwörter zu speicher und deren wahrgenommene Sicherheit |
@@ -44,3 +43,13 @@ Der Artikel befasst sich mit zwei eigenständigen Fragestellungen:
 | 239 | Benutzerverhalten | ..."no noticeable diﬀerences in any of the dependent variables (intention to pick a convenient password, intention to pick a secure pass- word, security–convenience tradeoﬀ score and pass- word quality) between users who used passwords at work and users who did not (ts(138) 5 0.42, ps 4 0.68)." | Entweder sind die Schulungen in Unternehmen nicht vorhanden/ungenügend oder haben keinen erheblichen Einfluss auf das Benutzerverhalten. |
 | 240 | Benutzerverhalten | ..."password quality was signiﬁcantly higher for online banking (where users see an immediate and negative impact as a result of having their accounts compromised) than for email accounts (2.97 vs 2.27, t(138) 4 3.16, p 50.01)." | Meiner Meinung nach falsche Prioritätensetzung - Bankaccounts verfügen über Mehrfaktorautentifizierung, während mit Mailaccounts die meisten damit verbundenen Konten übernommen werden können. |
 
+## Fazit
+
+### Hauptaussage
+Benutzer kennen die Anforderungen an ein sicheres Passwort, sind jedoch nur unter bestimmten Umständen gewilligt, den Komfort eines einfachen Passwortes gegen die Sicherheit eines komplizierteren Passwortes zu tauschen.
+
+### Bezug zur eigenen Forschungsskizze
+Durch die hohe Gewichtung des Komforts können die Prioritäten der Benutzer korrekt verteilt werden. Ebenfalls bestätigt der Artikel, dass das Wissen über Passwortsicherheit bei den meisten Benutzern vorhanden ist.
+
+### Hypothese
+Vielen Benutzern ist die einfachheit von Passwortmanagern nicht bewusst.
