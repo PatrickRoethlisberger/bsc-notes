@@ -23,13 +23,9 @@ Der Artikel befasst sich mit insgesamt vier Forschungsfragen, in diesem Exzerpt 
 | - | -- | ---- | ---- |
 | 1853 | Kentnisse über PM | Der Grossteil von Teilnehmenr war der Existenz von PMs bewusst, lediglich 9% der Teilnehmer hatten noch nie von PMs gehört. |  |
 | 1853 | Verwendung PM | Wenn höhere Kentnisse im Internet vorhanden sind, ist auch das Wissen über PMs höher. | Dieses Ergebniss war meiner Meinung nach zu erwarten, da der Hauptanwendungspunkt für PM auch das Internet ist. |
-| 1853 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 1853 | Verwendung PM | Browser PMs werden mit erheblichem Abstand am meisten verwendet, gefolgt von OS-PMs und am letzten Platz von Third-Party PMs |  |
 
-## Notizen Fragestellung 1
+## Notizen Fragestellung 4
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
