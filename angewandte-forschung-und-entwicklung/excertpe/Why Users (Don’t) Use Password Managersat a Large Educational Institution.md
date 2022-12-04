@@ -30,9 +30,18 @@ Der Artikel befasst sich mit insgesamt vier Forschungsfragen, in diesem Exzerpt 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
 | 1857 | Verbesserungsmöglichkeiten | Lediglich durch die Steigerung der Benutzerfreundlichkeit sowie der Trasparenz von PMs lässt sich eine erhebliche Steigerung der Bereitschaft zur Nutzung von PM erreichen. | Vermutung: Vielen Nutzern wird wohl nicht ganz bewusst sein, wie einfach bestimme PM zu verwenden sind und wie hoch die Transparenz dieser ist. |
-| 1857 | Motivation | Die Hauptgründe zur Verwendung von PMs wurde mit der Einfachheit zur Benutzung sowi |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 1857 | Motivation | Die Hauptgründe zur Verwendung von PMs wurde mit der Benutzerfreundlichkeit zur Speicherung von Passwörtern begründet, gefolgt von der Bequemlichkeit jene Passwörter zu speichern.  | Benutzer, welche PMs verwenden, scheinen über die Einfachheit dieser Programme überzeugt zu sein und dies als gröster Vorteil anzusehen. |
+| 1857 | Motivation | Als beliebteste Funktionen der PMs wurden von fast der Hälfte der Nutzer das automatische Ausfüllen der Passwörter genannt. |  |
+| 1857 | Bedenken | Die meisten Befragten, welche keinen PM nutzen, nannten als Grund Sicherheitsbedenken. | Diese Bedenken sind meist unbegründet, da gute PMs stark getestete Software sind, welche die Passwörter einzeln verschlüsselt abspeichern. |
+
+
+## Fazit
+
+### Hauptaussage
+PMs werden vom Grossteil der Befragten verwendet, welche besonders die Benutzerfreundlichkeit schätzen, was wiederum als grosse Hürde zur breiten Adoption für Nichtnutzer angegeben wurde. 
+
+### Bezug zur eigenen Forschungsskizze
+Basierend auf diesem Artikel lä
+
+### Hypothese
+Vielen Benutzern ist die einfachheit von Passwortmanagern nicht bewusst.
