@@ -40,8 +40,7 @@ Der Artikel befasst sich mit zwei eigenständigen Fragestellungen:
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 238 | Benutzerverhalten | ..."people focus on what they desire when thinking about distant future events and what they can realistically do when thinking about near future events. Empirical research (Eyal et al. 2004) supports this notion,"... |  |
+| 239 | Benutzerverhalten | ..."no noticeable diﬀerences in any of the dependent variables (intention to pick a convenient password, intention to pick a secure pass- word, security–convenience tradeoﬀ score and pass- word quality) between users who used passwords at work and users who did not (ts(138) 5 0.42, ps 4 0.68)." | Entweder sind die Schulungen in Unternehmen nicht vorhanden/ungenügend oder haben keinen erheblichen Einfluss auf das Benutzerverhalten. |
+| 240 | Benutzerverhalten | ..."password quality was signiﬁcantly higher for online banking (where users see an immediate and negative impact as a result of having their accounts compromised) than for email accounts (2.97 vs 2.27, t(138) 4 3.16, p 50.01)." | Meiner Meinung nach falsche Prioritätensetzung - Bankaccounts verfügen über Mehrfaktorautentifizierung, während mit Mailaccounts die meisten damit verbundenen Konten übernommen werden können. |
+
