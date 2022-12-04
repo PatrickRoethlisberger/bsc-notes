@@ -6,7 +6,9 @@
 | Finale Version | 10. - 12. August 2022 |
 | Umfang | Betrifft Seiten 1852 - 1853, 1856 - 1858 |
 
-Der Einfachheitshalber 
+
+Der Einfachheitshalber wir im Text für Passwortmanager die Abkürzung "PM" verwendet.
+
 ## Hauptfragestellung des Textes
 
 Der Artikel befasst sich mit insgesamt vier Forschungsfragen, in diesem Exzerpt wird jedoch nur auf die erste sowie letzte der Fragen eingegangen:
@@ -19,9 +21,9 @@ Der Artikel befasst sich mit insgesamt vier Forschungsfragen, in diesem Exzerpt 
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
-| 1853 | Kentnisse über PM |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 1853 | Kentnisse über PM | Der Grossteil von Teilnehmenr war der Existenz von PMs bewusst, lediglich 9% der Teilnehmer hatten noch nie von PMs gehört. |  |
+| 1853 | Verwendung PM | Wenn höhere Kentnisse im Internet vorhanden sind, ist auch das Wissen über PMs höher. | Dieses Ergebniss war meiner Meinung nach zu erwarten, da der Hauptanwendungspunkt für PM auch das Internet ist. |
+| 1853 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
