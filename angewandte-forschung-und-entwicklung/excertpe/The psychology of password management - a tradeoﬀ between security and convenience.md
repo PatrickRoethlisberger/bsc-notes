@@ -19,17 +19,15 @@ Der Artikel befasst sich mit zwei eigenständigen Fragestellungen:
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
-| 233 | Motivation | »Today’s Internet aﬀects more and more aspects of our lives« ... »As such, online security has become an important management issue for companies, computer users and society as a whole« | Die Verbreitung des Internets lässt sich in der heutigen Zeit nicht mehr abstreiten. Jedoch wird die Wichtigkeit der Sicherheit im Internet immer noch von vielen unterschätzt. |
-| 233 | Vorkehrungen & Probleme | »Due to the serious consequences of security lapses, companies allocate huge budgets to install safeguards to protect access to their systems (Bishop 1991). The increased spending has led to ﬁrewalls, authentication systems and other techniques being deployed to keep systems secure. However, despite these ever-increasing expenditures and eﬀorts, there is a variable that no amount of money can control – the user.« |  |
-| 233 | Benutzerverhalten | ... "end users either do not know or are overly optimistic about many aspects of the Internet (Campbell et al. 2007), especially online security |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 233 | Motivation | "Today’s Internet aﬀects more and more aspects of our lives"..."As such, online security has become an important management issue for companies, computer users and society as a whole" | Die Verbreitung des Internets lässt sich in der heutigen Zeit nicht mehr abstreiten. Jedoch wird die Wichtigkeit der Sicherheit im Internet immer noch von vielen unterschätzt. |
+| 233 | Vorkehrungen & Probleme | "Due to the serious consequences of security lapses, companies allocate huge budgets to install safeguards to protect access to their systems (Bishop 1991). The increased spending has led to ﬁrewalls, authentication systems and other techniques being deployed to keep systems secure. However, despite these ever-increasing expenditures and eﬀorts, there is a variable that no amount of money can control – the user." |  |
+| 233 | Benutzerverhalten | ... "end users either do not know or are overly optimistic about many aspects of the Internet (Campbell et al. 2007), especially online security." |  |
+| 234 | Motivation | ... "getting users to follow security policies was recently named one of the two biggest people issues for top-level security management" |  |
+| 234 | Benutzer Wissen | "The results showed that most participants (114 (85.7%)) were, in fact, able to evaluate password quality" | Es scheitert anscheinend nicht daran, dass Benutzer nicht wissen wie ein starkes Passwort aussieht. |
+| 234 | Bedenken | "They also knew that random combinations of at least eight digits, letters and symbols made good passwords (114 (85.7%))" | Entspricht nicht mehr den aktuellen Empfehlungen der Passwortstärke. |
+| 234 | Benutzerverhalten | "The study revealed that convenience means more than just ease of use for the individual user" |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
 
-
-end users either do not know or are overly optimistic about many aspects of the Internet (Campbell et al. 2007), especially online security
