@@ -41,7 +41,7 @@ Der Artikel befasst sich mit insgesamt vier Forschungsfragen, in diesem Exzerpt 
 PMs werden vom Grossteil der Befragten verwendet, welche besonders die Benutzerfreundlichkeit schätzen, was wiederum als grosse Hürde zur breiten Adoption für Nichtnutzer angegeben wurde. 
 
 ### Bezug zur eigenen Forschungsskizze
-Basierend auf diesem Artikel lä
+Basierend auf diesem Artikel lassen sich die Bedenken der Nutzer aufzeigen, welche aktuell kein PM verwenden, sowie die Hypothese bestätigen, dass die Benutzerfreundlichkeit zu einer der grössten Vorteile dieser zählt.
 
 ### Hypothese
-Vielen Benutzern ist die einfachheit von Passwortmanagern nicht bewusst.
+Durch sachliche Information über PMs würden sich viele aktuelle Nichtnutzer von den Vorteilen von PMs überzeugen lassen – besonders wenn dies von einer unabhängigen Stelle kommt.
