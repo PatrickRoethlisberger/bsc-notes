@@ -28,12 +28,11 @@ Der Artikel befasst sich mit zwei eigenständigen Fragestellungen:
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
 | 235 | Benutzer Wissen | Die Ergebnisse zeigten, dass die meisten Teilnehmer (114 (85,7 %)) in der Lage waren, die Qualität der Passwörter zu bewerten | Es scheitert anscheinend nicht daran, dass Benutzer nicht wissen wie ein starkes Passwort aussieht. |
-| 235 | Bedenken | "They also knew that random combinations of at least eight digits, letters and symbols made good passwords (114 (85.7%))" | Entspricht nicht mehr den aktuellen Empfehlungen der Passwortstärke. |
-| 235 | Benutzerverhalten | "The study revealed that convenience means more than just ease of use for the individual user" |  |
-| 237 | Benutzerverhalten | "While forgetting a password was our users’ greatest concern, our ﬁndings suggest that this concern may, in fact, be overblown." |  |
+| 235 | Bedenken | Sie wussten auch, dass zufällige Kombinationen aus mindestens acht Ziffern, Buchstaben und Symbolen gute Passwörter sind (114 (85,7%)) | Entspricht nicht mehr den aktuellen Empfehlungen der Passwortstärke. |
+| 235 | Benutzerverhalten | Die Studie hat gezeigt, dass Komfort mehr bedeutet als nur Benutzerfreundlichkeit für den einzelnen Nutzer |  |
+| 237 | Benutzerverhalten | Obwohl das Vergessen eines Passworts die größte Sorge unserer Nutzer war, deuten unsere Ergebnisse darauf hin, dass diese Sorge übertrieben sein könnte |  |
 | 237 | Benutzerverhalten | "‘If I have to, I can remember my password even if it is complex, but I’d rather not put the mental eﬀort into it. I’d rather write it down and tape it to my computer because it is more convenient... one less thing to be bothered with’" |  |
-| 237 | Benutzerverhalten | "users thought of choosing a password for the ﬁrst time and changing a password diﬀerently. Compared with choosing a password for the ﬁrst time, changing a password elicited more positive thoughts about security (75% vs 55%; t(131) ¼ 3.75, p 5 0.01) and fewer negative thoughts about security (5% vs 62%; t(131) ¼ 7.83, p 50.01)." | Annahme: Könne anhand der hohen Dringlichkeit/Zeitdruck beim Erstellen des Passworts liegen. |
-| 237 | Benutzerverhalten | "We believe that choosing a password for the ﬁrst time has a near future and act-now time frame, whereas changing a password has a distant future time frame." |  |
+| 237 | Benutzerverhalten | Die Nutzer hatten unterschiedliche Meinungen zur erstmaligen Wahl eines Passworts und zur Änderung eines Passworts. Verglichen mit der erstmaligen Wahl eines Passworts löste das Ändern eines Passworts mehr positive und weniger negative Gefühle für die Sicherheit aus. | Annahme: Könne anhand der hohen Dringlichkeit/Zeitdruck beim Erstellen des Passworts liegen. |
 
 ## Notizen Fragestellung 2
 
