@@ -30,7 +30,7 @@ Der Artikel befasst sich mit insgesamt vier Forschungsfragen, in diesem Exzerpt 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
 | 1857 | Verbesserungsmöglichkeiten | Lediglich durch die Steigerung der Benutzerfreundlichkeit sowie der Trasparenz von PMs lässt sich eine erhebliche Steigerung der Bereitschaft zur Nutzung von PM erreichen. | Vermutung: Vielen Nutzern wird wohl nicht ganz bewusst sein, wie einfach bestimme PM zu verwenden sind und wie hoch die Transparenz dieser ist. |
-|  |  |  |  |
+| 1857 | Motivation | Die Hauptgründe zur Verwendung von PMs wurde mit der Einfachheit zur Benutzung sowi |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
