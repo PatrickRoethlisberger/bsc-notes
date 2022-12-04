@@ -1,7 +1,7 @@
 
 |  |  |
 | --- | --------- |
-| Thema | Vergleich der verschiedenen Arten Passwörter zu speicher und deren wahrgenommene Sicherheit |
+| Thema | Vergleich der verschiedenen Arten Passwörter zu speichern und deren wahrgenommene Sicherheit |
 | Literatur Angaben |  The psychology of password management: a tradeoﬀ between security and convenience |
 | Authoren | L. Tama, M. Glassmana und M. Vandenwauverb |
 | Finale Version | 12. Juni 2009 |
@@ -38,9 +38,9 @@ Der Artikel befasst sich mit zwei eigenständigen Fragestellungen:
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
-| 238 | Benutzerverhalten | ..."people focus on what they desire when thinking about distant future events and what they can realistically do when thinking about near future events. Empirical research (Eyal et al. 2004) supports this notion,"... |  |
-| 239 | Benutzerverhalten | ..."no noticeable diﬀerences in any of the dependent variables (intention to pick a convenient password, intention to pick a secure pass- word, security–convenience tradeoﬀ score and pass- word quality) between users who used passwords at work and users who did not (ts(138) 5 0.42, ps 4 0.68)." | Entweder sind die Schulungen in Unternehmen nicht vorhanden/ungenügend oder haben keinen erheblichen Einfluss auf das Benutzerverhalten. |
-| 240 | Benutzerverhalten | ..."password quality was signiﬁcantly higher for online banking (where users see an immediate and negative impact as a result of having their accounts compromised) than for email accounts (2.97 vs 2.27, t(138) 4 3.16, p 50.01)." | Meiner Meinung nach falsche Prioritätensetzung - Bankaccounts verfügen über Mehrfaktorautentifizierung, während mit Mailaccounts die meisten damit verbundenen Konten übernommen werden können. |
+| 238 | Benutzerverhalten | Benutzer konzentrieren sich auf das, wo sie sich wünschen wenn sie in die weite Zukunft denken, während an das, wo sie realistisch erreichen können, wenn sie an die nahe Zukunft denken. Dies wird von Empirischer Forschung von Eyal (et al. 2004) unterlegt. |  |
+| 239 | Benutzerverhalten | Es wurde kein Unterschied zwischen Benutzern, welche Passwörter im geschäftlichen Umfeld verwenden und jenen, die dies nicht machen, festgestellt. | Entweder sind die Schulungen in Unternehmen nicht vorhanden/ungenügend oder haben keinen erheblichen Einfluss auf das Benutzerverhalten. |
+| 240 | Benutzerverhalten | Die Qualität von Passwörtern war für Online Banking signifikant höher als für anderwertige Accounts wie beispielsweise Mail oder Chatprogramme | Meiner Meinung nach falsche Prioritätensetzung - Bankaccounts verfügen über Mehrfaktorautentifizierung, während mit Mailaccounts die meisten damit verbundenen Konten übernommen werden können. |
 
 ## Fazit
 
