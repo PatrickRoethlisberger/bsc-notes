@@ -20,7 +20,19 @@ In diesem Excerpt wird lediglich auf die erste Fragestellung bezug genommen.
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
+| 3 | Aktuelle Situation | Da die Authentifizierung eine essenzielle Rolle im Schutz von persönlichen und anderwertige wertvollen Daten spielt, wurden allerlei Authentifizierungsmethoden entwickelt. Dies reicht über wissensbasierte Authentifizierung (wie Passwörter) über biometrische Authentifizierung (folglich Auth. genannt) oder auch Token basierte Auth. |  |
+| 3 | Verbreitung | Die wissensbasierte Auth. ist weiterhin mit Abstand die weitverbreitetste Methode Benutzer anzumelden. |  |
+| 3 | Problematik | Die wissensbasierte Auth. hat eine hohe kognitive Anforderung an den Benutzer, was sich in unsichere Passwörter oder deren unsicherer Haltung auswirkt. | Annahme: Die Verbreitung von Passwort Managern ist in nicht-technischen Kreisen aktuell nicht sehr weit verbreitet. |
 |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+
+## Fazit
+
+### Hauptaussage
+Benutzer kennen die Anforderungen an ein sicheres Passwort, sind jedoch nur unter bestimmten Umständen gewilligt, den Komfort eines einfachen Passwortes gegen die Sicherheit eines komplizierteren Passwortes zu tauschen.
 
 ### Bezug zur eigenen Forschungsskizze
 Durch die hohe Gewichtung des Komforts können die Prioritäten der Benutzer korrekt verteilt werden. Ebenfalls bestätigt der Artikel, dass das Wissen über Passwortsicherheit bei den meisten Benutzern vorhanden ist.
