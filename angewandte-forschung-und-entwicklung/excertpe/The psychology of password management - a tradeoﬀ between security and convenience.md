@@ -18,8 +18,8 @@ Der Artikel befasst sich mit zwei eigenständigen Fragestellungen:
 
 | Seite(n) | Thema | Aussage | Bemerkung |
 | - | -- | ---- | ---- |
-| 233 | Motivation | "Today’s Internet aﬀects more and more aspects of our lives"..."As such, online security has become an important management issue for companies, computer users and society as a whole" | Die Verbreitung des Internets lässt sich in der heutigen Zeit nicht mehr abstreiten. Jedoch wird die Wichtigkeit der Sicherheit im Internet immer noch von vielen unterschätzt. |
-| 233 | Vorkehrungen & Probleme | "Due to the serious consequences of security lapses, companies allocate huge budgets to install safeguards to protect access to their systems (Bishop 1991). The increased spending has led to ﬁrewalls, authentication systems and other techniques being deployed to keep systems secure. However, despite these ever-increasing expenditures and eﬀorts, there is a variable that no amount of money can control – the user." |  |
+| 233 | Motivation | Das Internet beeinflusst heute immer mehr Aspekte unseres Lebens. Daher ist die Online-Sicherheit zu einem wichtigen Managementthema für Unternehmen, Computernutzer und die Gesellschaft als Ganzes geworden | Die Verbreitung des Internets lässt sich in der heutigen Zeit nicht mehr abstreiten. Jedoch wird die Wichtigkeit der Sicherheit im Internet immer noch von vielen unterschätzt. |
+| 233 | Vorkehrungen & Probleme | Aufgrund der schwerwiegenden Folgen von Sicherheitsmängeln stellen die Unternehmen grosse Budgets für die Einführung von Sicherheitsvorkehrungen zum Schutz des Zugangs zu ihren Systemen bereit. Doch trotz dieser ständig steigenden Ausgaben und Bemühungen gibt es eine Variable, die man nicht kontrollieren kann - den Benutzer. |  |
 | 233 | Benutzerverhalten | ... "end users either do not know or are overly optimistic about many aspects of the Internet (Campbell et al. 2007), especially online security." |  |
 | 234 | Motivation | ... "getting users to follow security policies was recently named one of the two biggest people issues for top-level security management" |  |
 
