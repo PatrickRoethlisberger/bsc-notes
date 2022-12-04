@@ -1,3 +1,4 @@
+# The Password is Dead, Long Live the Password – A Laboratory Study on User Perceptions of Authentication Schemes
 
 |  |  |
 | --- | --------- |
@@ -38,4 +39,4 @@ Trotz des hohen kognitiven Aufwandes und der nur mittel eingeschätzten Sicherhe
 Durch diesen Artikel wird die zukünftige Relevanz von passwortbasierter Auth. bestätigt, welche mithilfe von Passwortmanagern eine höhere Sicherheit und einfachere Nutzbarkeit erhalten.
 
 ### Hypothese
-Die Verbindung von passwortbasierter Auth. mit einem zweiten Faktor (Token) würde die Sicherheit erheblich steigern, ohne einen 
+Die Verbindung von passwortbasierter Auth. mit einem zweiten Faktor (Token) würde die Sicherheit erheblich steigern, ohne einen grossen Einfluss auf die Nutzbarkeit der Auth. Methode zu haben.
